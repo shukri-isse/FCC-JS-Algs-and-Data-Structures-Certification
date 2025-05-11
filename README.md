@@ -33,7 +33,7 @@ Welcome to my repository showcasing the projects I completed as part of the Free
 3. Open index.html in your browser (if included) to see the project output.
 
 ## Technologies Used
-- JavaScript (ES6+)
+- JavaScript
 - HTML/CSS (basic structure for project testing)
 - Regex
 - Problem Solving and Algorithm Design
